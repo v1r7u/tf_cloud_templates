@@ -30,6 +30,3 @@ At the moment, all the demo materials are focused on Azure Cloud as an example.
 10. Security. [Disaster recovery](demo_steps_docs/10-security_disaster.md).
 11. Security. [Policies](demo_steps_docs/11-security_policies.md).
 12. Security. [Identity Access Management](demo_steps_docs/12-security_iam_rbac.md).
-13. Monitoring. [Observability](demo_steps_docs/13-monitoring-observability.md).
-14. Monitoring. [Audit](demo_steps_docs/14-monitoring-audit.md).
-15. Pricing. [Pricing](demo_steps_docs/15-pricing.md).
